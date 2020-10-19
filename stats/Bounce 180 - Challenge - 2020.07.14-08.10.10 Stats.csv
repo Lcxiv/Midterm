@@ -1,0 +1,88 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:09:01.448,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+2,08:09:01.809,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+3,08:09:03.050,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+4,08:09:04.146,Pigeon,pistol,0.789s,2,1,0.5,50,250,0.2,false
+5,08:09:05.337,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+6,08:09:06.458,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+7,08:09:07.615,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+8,08:09:08.857,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+9,08:09:10.458,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+10,08:09:10.988,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+11,08:09:11.508,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+12,08:09:12.760,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+13,08:09:13.918,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+14,08:09:15.067,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+15,08:09:15.951,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+16,08:09:16.505,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+17,08:09:17.373,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+18,08:09:18.767,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+19,08:09:20.330,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+20,08:09:21.502,Pigeon,pistol,0.581s,2,1,0.5,50,250,0.2,false
+21,08:09:22.916,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+22,08:09:24.307,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+23,08:09:26.003,Pigeon,pistol,1.284s,2,1,0.5,50,250,0.2,false
+24,08:09:27.346,Pigeon,pistol,0.301s,2,1,0.5,50,250,0.2,false
+25,08:09:28.423,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+26,08:09:28.957,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+27,08:09:29.835,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+28,08:09:30.456,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+29,08:09:31.667,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+30,08:09:32.594,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+31,08:09:34.269,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+32,08:09:35.890,Pigeon,pistol,0.907s,2,1,0.5,50,250,0.2,false
+33,08:09:36.284,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+34,08:09:37.128,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+35,08:09:37.864,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+36,08:09:39.071,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+37,08:09:39.936,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+38,08:09:41.190,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+39,08:09:42.601,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+40,08:09:45.017,Pigeon,pistol,1.155s,3,1,0.333,50,375,0.133,false
+41,08:09:47.312,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+42,08:09:48.607,Pigeon,pistol,0.267s,2,1,0.5,50,250,0.2,false
+43,08:09:50.232,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+44,08:09:51.930,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+45,08:09:53.108,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+46,08:09:54.359,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+47,08:09:55.510,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+48,08:09:57.264,Pigeon,pistol,1.058s,2,1,0.5,50,250,0.2,false
+49,08:09:58.382,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+50,08:09:59.613,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+51,08:10:01.336,Pigeon,pistol,1.072s,2,1,0.5,50,250,0.2,false
+52,08:10:02.550,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+53,08:10:05.638,Pigeon,pistol,1.448s,2,1,0.5,50,250,0.2,false
+54,08:10:06.326,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+55,08:10:06.990,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+56,08:10:09.716,Pigeon,pistol,1.475s,4,1,0.25,50,500,0.1,false
+57,08:10:10.380,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,71,57,2850.0,8875.0,
+
+Kills:,57
+Deaths:,0
+Fight Time:,10.339
+Avg TTK:,1.238
+Damage Done:,2850.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,45.760567
+Scenario:,Bounce 180
+Hash:,28c00569c77cdbb9a321ffb8a8363220
+Game Version:,2.0.1.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,80.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

@@ -1,0 +1,47 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:58:00.264,fnflyerslowbot,FN SMG No Bloom,3.41s,34,14,0.412,210,1020,0.206,false
+2,19:58:03.518,fnflyerbot,FN SMG No Bloom,3.067s,31,8,0.258,120,930,0.129,false
+3,19:58:07.936,fnflyerslowbot,FN SMG No Bloom,2.598s,27,14,0.519,210,810,0.259,false
+4,19:58:10.970,fnflyerslowbot,FN SMG No Bloom,1.996s,21,14,0.667,210,630,0.333,false
+5,19:58:16.407,fnflyerslowbot,FN SMG No Bloom,3.598s,37,14,0.378,210,1110,0.189,false
+6,19:58:20.530,fnflyerslowbot,FN SMG No Bloom,2.925s,30,12,0.4,180,900,0.2,false
+7,19:58:23.403,fnflyerslowbot,FN SMG No Bloom,1.699s,18,14,0.778,210,540,0.389,false
+8,19:58:27.389,fnflyerbot,FN SMG No Bloom,2.597s,26,14,0.538,210,780,0.269,false
+9,19:58:31.411,fnflyerbot,FN SMG No Bloom,3.497s,36,14,0.389,210,1080,0.194,false
+10,19:58:34.244,fnflyerslowbot,FN SMG No Bloom,1.4s,15,14,0.933,210,450,0.467,false
+11,19:58:37.927,fnflyerslowbot,FN SMG No Bloom,2.8s,29,15,0.517,225,870,0.259,false
+12,19:58:40.700,fnflyerbot,FN SMG No Bloom,2.224s,18,8,0.444,120,540,0.222,false
+14,19:58:45.399,fnflyerslowbot,FN SMG No Bloom,3.399s,35,14,0.4,210,1050,0.2,false
+15,19:58:51.125,fnflyerslowbot,FN SMG No Bloom,3.899s,40,14,0.35,210,1200,0.175,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+FN Assault Rifle No Bloom,0,0,0.0,0.0,
+FN SMG No Bloom,416,189,2835.0,12480.0,
+FN Hunting Rifle No Bloom,0,0,0.0,0.0,
+
+Kills:,15
+Deaths:,0
+Fight Time:,42.124001
+Avg TTK:,4
+Damage Done:,2835.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,2835.0
+Scenario:,Fortnite Gliders 360
+Hash:,d1f51949646ebdc6eca5470eef055616
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

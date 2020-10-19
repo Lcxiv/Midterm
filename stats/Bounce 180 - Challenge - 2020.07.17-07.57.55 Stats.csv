@@ -1,0 +1,90 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,07:56:45.884,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+2,07:56:47.244,Pigeon,pistol,0.911s,2,1,0.5,50,250,0.2,false
+3,07:56:48.098,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+4,07:56:49.015,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+5,07:56:49.849,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+6,07:56:50.902,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+7,07:56:52.195,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+8,07:56:53.350,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+9,07:56:54.442,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+10,07:56:55.333,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+11,07:56:56.868,Pigeon,pistol,0.837s,2,1,0.5,50,250,0.2,false
+12,07:56:57.990,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+13,07:56:59.083,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+14,07:57:00.721,Pigeon,pistol,0.881s,2,1,0.5,50,250,0.2,false
+15,07:57:02.136,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+16,07:57:03.361,Pigeon,pistol,0.406s,2,1,0.5,50,250,0.2,false
+17,07:57:03.763,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+18,07:57:05.890,Pigeon,pistol,1.331s,2,1,0.5,50,250,0.2,false
+19,07:57:07.312,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+20,07:57:08.032,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+21,07:57:09.365,Pigeon,pistol,0.749s,2,1,0.5,50,250,0.2,false
+22,07:57:10.063,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+23,07:57:10.970,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+24,07:57:12.746,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+25,07:57:15.123,Pigeon,pistol,1.278s,2,1,0.5,50,250,0.2,false
+26,07:57:16.633,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+27,07:57:17.084,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+28,07:57:17.980,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+29,07:57:18.995,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+30,07:57:19.490,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+31,07:57:20.542,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+32,07:57:21.677,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+33,07:57:22.215,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+34,07:57:23.272,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+35,07:57:24.524,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+36,07:57:26.106,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+37,07:57:29.012,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+38,07:57:30.486,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+39,07:57:31.583,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+40,07:57:32.024,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+41,07:57:33.081,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+42,07:57:33.879,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+43,07:57:39.114,Pigeon,pistol,3.057s,3,1,0.333,50,375,0.133,false
+44,07:57:40.101,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+45,07:57:41.391,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+46,07:57:42.080,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+47,07:57:42.922,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+48,07:57:44.102,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+49,07:57:45.061,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+50,07:57:45.590,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+51,07:57:46.111,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+52,07:57:47.561,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+53,07:57:49.202,Pigeon,pistol,0.467s,2,1,0.5,50,250,0.2,false
+54,07:57:50.099,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+55,07:57:51.510,Pigeon,pistol,0.729s,2,1,0.5,50,250,0.2,false
+56,07:57:52.592,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+57,07:57:53.888,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+58,07:57:54.408,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+59,07:57:55.259,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,70,59,2950.0,8750.0,
+
+Kills:,59
+Deaths:,0
+Fight Time:,10.649
+Avg TTK:,1.196
+Damage Done:,2950.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,49.728569
+Scenario:,Bounce 180
+Hash:,28c00569c77cdbb9a321ffb8a8363220
+Game Version:,2.0.1.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,80.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

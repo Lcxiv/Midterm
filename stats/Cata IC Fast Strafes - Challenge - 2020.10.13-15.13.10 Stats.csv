@@ -1,0 +1,39 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,15:12:17.399,Quaker Bot Fast Strafes,LG,5.748s,126,50,0.397,300,756,0.397,false
+2,15:12:24.609,Quaker Bot Fast Strafes,LG,5.335s,117,50,0.427,300,702,0.427,false
+3,15:12:31.278,Quaker Bot Fast Strafes,LG,4.83s,106,50,0.472,300,636,0.472,false
+4,15:12:38.346,Quaker Bot Fast Strafes,LG,5.241s,115,50,0.435,300,690,0.435,false
+5,15:12:45.914,Quaker Bot Fast Strafes,LG,5.655s,124,50,0.403,300,744,0.403,false
+6,15:12:52.957,Quaker Bot Fast Strafes,LG,5.243s,115,50,0.435,300,690,0.435,false
+7,15:12:59.735,Quaker Bot Fast Strafes,LG,4.966s,109,50,0.459,300,654,0.459,false
+8,15:13:08.059,Quaker Bot Fast Strafes,LG,6.436s,141,50,0.355,300,846,0.355,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,982,407,2442.0,5892.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,43.453999
+Avg TTK:,7.5
+Damage Done:,2442.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,3036.335938
+Scenario:,Cata IC Fast Strafes
+Hash:,ae0024fa5045348cf5200beda4716333
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

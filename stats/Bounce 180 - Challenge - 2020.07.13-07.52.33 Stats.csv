@@ -1,0 +1,88 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,07:51:24.140,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+2,07:51:25.742,Pigeon,pistol,0.891s,2,1,0.5,50,250,0.2,false
+3,07:51:26.925,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+4,07:51:28.193,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+5,07:51:30.127,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+6,07:51:32.383,Pigeon,pistol,1.215s,3,1,0.333,50,375,0.133,false
+7,07:51:33.405,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+8,07:51:33.953,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+9,07:51:35.373,Pigeon,pistol,0.9s,2,1,0.5,50,250,0.2,false
+10,07:51:36.497,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+11,07:51:36.862,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+12,07:51:38.817,Pigeon,pistol,1.141s,2,1,0.5,50,250,0.2,false
+13,07:51:39.545,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+14,07:51:40.716,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+15,07:51:41.488,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+16,07:51:42.556,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+17,07:51:43.337,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+18,07:51:46.129,Pigeon,pistol,1.174s,2,1,0.5,50,250,0.2,false
+19,07:51:47.049,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+20,07:51:48.258,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+21,07:51:48.632,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+22,07:51:50.313,Pigeon,pistol,0.919s,2,1,0.5,50,250,0.2,false
+23,07:51:51.737,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+24,07:51:52.234,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+25,07:51:53.596,Pigeon,pistol,0.794s,2,1,0.5,50,250,0.2,false
+26,07:51:54.310,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+27,07:51:56.795,Pigeon,pistol,1.153s,2,1,0.5,50,250,0.2,false
+28,07:51:59.259,Pigeon,pistol,1.36s,2,1,0.5,50,250,0.2,false
+29,07:52:00.680,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+30,07:52:01.844,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+31,07:52:03.674,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+32,07:52:04.855,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+33,07:52:05.663,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+34,07:52:06.304,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+35,07:52:06.896,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+36,07:52:09.248,Pigeon,pistol,1.464s,2,1,0.5,50,250,0.2,false
+37,07:52:10.236,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+38,07:52:11.541,Pigeon,pistol,0.704s,2,1,0.5,50,250,0.2,false
+39,07:52:12.140,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+40,07:52:13.247,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+41,07:52:14.267,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+42,07:52:15.531,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+43,07:52:15.998,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+44,07:52:16.869,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+45,07:52:18.257,Pigeon,pistol,0.834s,2,1,0.5,50,250,0.2,false
+46,07:52:20.174,Pigeon,pistol,0.56s,2,1,0.5,50,250,0.2,false
+47,07:52:20.728,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+48,07:52:21.653,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+49,07:52:22.553,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+50,07:52:23.923,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+51,07:52:25.271,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+52,07:52:26.049,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+53,07:52:26.976,Pigeon,pistol,0.28s,2,1,0.5,50,250,0.2,false
+54,07:52:27.624,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+55,07:52:29.006,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+56,07:52:30.391,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+57,07:52:32.450,Pigeon,pistol,0.933s,2,1,0.5,50,250,0.2,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,73,57,2850.0,9125.0,
+
+Kills:,57
+Deaths:,0
+Fight Time:,14.324
+Avg TTK:,1.238
+Damage Done:,2850.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,44.506851
+Scenario:,Bounce 180
+Hash:,28c00569c77cdbb9a321ffb8a8363220
+Game Version:,2.0.1.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,80.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

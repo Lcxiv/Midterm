@@ -1,0 +1,36 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:00:20.100,air1_far_long,LG,9.097s,824,553,0.671,721.112,1074.498,0.671,false
+2,20:00:31.951,air1_far_long,LG,10.867s,1088,553,0.508,721.112,1418.742,0.508,false
+3,20:00:41.631,air1_far_long,LG,8.827s,884,553,0.626,721.112,1152.735,0.626,false
+4,20:00:51.362,air1_far_long,LG,8.843s,839,553,0.659,721.112,1094.057,0.659,false
+5,20:01:00.855,air1_far_long,LG,8.577s,859,553,0.644,721.112,1120.136,0.644,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,5381,3308,4313.562988,7017.167969,
+
+Kills:,5
+Deaths:,0
+Fight Time:,46.210999
+Avg TTK:,12
+Damage Done:,4313.562988
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,4313.562988
+Scenario:,gp far long strafes
+Hash:,34e124fe5a4afca93dcde66890609ad5
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

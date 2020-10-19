@@ -1,0 +1,37 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,19:59:12.069,air1_far_long,LG,10.62s,997,553,0.555,721.112,1300.082,0.555,false
+2,19:59:23.143,air1_far_long,LG,9.927s,994,553,0.556,721.112,1296.17,0.556,false
+3,19:59:32.576,air1_far_long,LG,8.447s,846,553,0.654,721.112,1103.185,0.654,false
+4,19:59:41.707,air1_far_long,LG,9.007s,846,553,0.654,721.112,1103.185,0.654,false
+5,19:59:50.680,air1_far_long,LG,7.757s,777,553,0.712,721.112,1013.212,0.712,false
+6,20:00:00.265,air1_far_long,LG,8.517s,853,553,0.648,721.112,1112.313,0.648,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,5313,3318,4326.60498,6928.482422,
+
+Kills:,6
+Deaths:,0
+Fight Time:,54.275002
+Avg TTK:,10
+Damage Done:,4326.60498
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,4326.60498
+Scenario:,gp far long strafes
+Hash:,34e124fe5a4afca93dcde66890609ad5
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

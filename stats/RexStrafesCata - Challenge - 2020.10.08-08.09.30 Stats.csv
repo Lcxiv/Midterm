@@ -1,0 +1,37 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:08:36.941,Quaker Bot Hard,LG,5.563s,122,50,0.41,300,732,0.41,false
+2,08:08:46.212,Quaker Bot Hard,LG,6.853s,150,50,0.333,300,900,0.333,false
+3,08:08:54.899,Quaker Bot Hard,LG,6.117s,134,50,0.373,300,804,0.373,false
+4,08:09:01.016,Quaker Bot Hard,LG,3.769s,83,50,0.602,300,498,0.602,false
+5,08:09:12.537,Quaker Bot Hard,LG,9.127s,195,50,0.256,300,1170,0.256,false
+6,08:09:20.427,Quaker Bot Hard,LG,5.427s,119,50,0.42,300,714,0.42,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,962,350,2100.0,5772.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,46.527
+Avg TTK:,8.571
+Damage Done:,2100.0
+Damage Taken:,2712.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,59232.007813
+Score:,1798.752563
+Scenario:,RexStrafesCata
+Hash:,840135c10eab0223ff661b2a6460bf54
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

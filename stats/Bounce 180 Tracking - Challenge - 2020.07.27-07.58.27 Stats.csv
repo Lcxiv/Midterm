@@ -1,0 +1,75 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,07:57:18.531,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+2,07:57:21.144,Pigeon,LG,1.243s,24,5,0.208,30,144,0.208,false
+3,07:57:22.158,Pigeon,LG,0.827s,10,5,0.5,30,60,0.5,false
+4,07:57:23.691,Pigeon,LG,0.323s,7,5,0.714,30,42,0.714,false
+5,07:57:24.931,Pigeon,LG,0.377s,8,5,0.625,30,48,0.625,false
+6,07:57:25.851,Pigeon,LG,0.486s,10,5,0.5,30,60,0.5,false
+7,07:57:26.855,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+8,07:57:28.256,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+9,07:57:29.669,Pigeon,LG,0.486s,10,5,0.5,30,60,0.5,false
+10,07:57:32.236,Pigeon,LG,1.297s,25,5,0.2,30,150,0.2,false
+11,07:57:33.340,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+12,07:57:33.950,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+13,07:57:34.867,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+14,07:57:36.117,Pigeon,LG,0.806s,9,5,0.556,30,54,0.556,false
+15,07:57:37.591,Pigeon,LG,0.43s,9,5,0.556,30,54,0.556,false
+16,07:57:39.541,Pigeon,LG,0.54s,11,5,0.455,30,66,0.455,false
+17,07:57:40.338,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+18,07:57:41.869,Pigeon,LG,0.376s,8,5,0.625,30,48,0.625,false
+19,07:57:42.705,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+20,07:57:43.589,Pigeon,LG,0.27s,6,5,0.833,30,36,0.833,false
+21,07:57:44.599,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+22,07:57:47.229,Pigeon,LG,2.247s,26,9,0.346,54,156,0.346,false
+23,07:57:47.883,Pigeon,LG,0s,1,1,1,6,6,1,false
+24,07:57:49.352,Pigeon,LG,0.214s,5,5,1,30,30,1,false
+25,07:57:53.677,Pigeon,LG,2.89s,29,6,0.207,36,174,0.207,false
+26,07:57:55.980,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+27,07:57:58.205,Pigeon,LG,0.431s,9,4,0.444,24,54,0.444,false
+28,07:57:59.421,Pigeon,LG,0.376s,8,5,0.625,30,48,0.625,false
+29,07:58:00.558,Pigeon,LG,0.212s,5,5,1,30,30,1,false
+30,07:58:01.976,Pigeon,LG,0.754s,9,5,0.556,30,54,0.556,false
+31,07:58:03.366,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+32,07:58:05.723,Pigeon,LG,1.146s,9,7,0.778,42,54,0.778,false
+33,07:58:07.880,Pigeon,LG,1.367s,19,3,0.158,18,114,0.158,false
+34,07:58:09.770,Pigeon,LG,0.647s,13,5,0.385,30,78,0.385,false
+35,07:58:12.207,Pigeon,LG,0.864s,17,5,0.294,30,102,0.294,false
+36,07:58:14.332,Pigeon,LG,1.224s,20,9,0.45,54,120,0.45,false
+37,07:58:16.230,Pigeon,LG,0.895s,16,5,0.312,30,96,0.312,false
+38,07:58:17.763,Pigeon,LG,0.864s,17,5,0.294,30,102,0.294,false
+39,07:58:18.430,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+40,07:58:19.227,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+41,07:58:19.914,Pigeon,LG,0s,1,1,1,6,6,1,false
+42,07:58:21.084,Pigeon,LG,0.269s,6,5,0.833,30,36,0.833,false
+43,07:58:21.881,Pigeon,LG,0.213s,5,5,1,30,30,1,false
+44,07:58:23.775,Pigeon,LG,0.429s,9,5,0.556,30,54,0.556,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,426,220,1320.0,2556.0,
+
+Kills:,44
+Deaths:,0
+Fight Time:,25.273001
+Avg TTK:,1.604
+Damage Done:,1320.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,44.0
+Scenario:,Bounce 180 Tracking
+Hash:,34eb3c5e616da024acf883f4ac7ec524
+Game Version:,2.0.1.2
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,80.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

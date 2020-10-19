@@ -1,0 +1,40 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,08:28:15.612,Quaker Bot Fast Strafes,LG,4.873s,107,50,0.467,300,642,0.467,false
+2,08:28:22.962,Quaker Bot Fast Strafes,LG,5.103s,112,50,0.446,300,672,0.446,false
+3,08:28:28.635,Quaker Bot Fast Strafes,LG,3.309s,73,50,0.685,300,438,0.685,false
+4,08:28:35.894,Quaker Bot Fast Strafes,LG,5.024s,106,50,0.472,300,636,0.472,false
+5,08:28:41.541,Quaker Bot Fast Strafes,LG,3.723s,82,50,0.61,300,492,0.61,false
+6,08:28:47.381,Quaker Bot Fast Strafes,LG,4.048s,89,50,0.562,300,534,0.562,false
+7,08:28:55.079,Quaker Bot Fast Strafes,LG,5.568s,113,50,0.442,300,678,0.442,false
+8,08:29:02.023,Quaker Bot Fast Strafes,LG,6.782s,92,50,0.543,300,552,0.543,false
+9,08:29:07.291,Quaker Bot Fast Strafes,LG,3.404s,75,50,0.667,300,450,0.667,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,871,464,2784.0,5226.0,
+
+Kills:,9
+Deaths:,0
+Fight Time:,41.834
+Avg TTK:,6.667
+Damage Done:,2784.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,8352.0
+Scenario:,Close Fast Strafes Easy
+Hash:,c57ba5eac01377fde8f49607129ac4c5
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

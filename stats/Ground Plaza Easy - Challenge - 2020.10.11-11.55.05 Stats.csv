@@ -1,0 +1,39 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,11:53:06.600,air_close_short,LG,9.876s,989,553,0.559,721.112,1289.651,0.559,false
+2,11:53:19.099,air1_far_short,LG,10.977s,1099,553,0.503,721.112,1433.086,0.503,false
+3,11:53:42.040,Bot Profile,LG,21.964s,1986,553,0.278,721.112,2589.694,0.278,false
+4,11:53:55.397,air1F_close_long,LG,11.141s,1073,553,0.515,721.112,1399.183,0.515,false
+5,11:54:06.692,air1F_far_long,LG,9.537s,955,553,0.579,721.112,1245.316,0.579,false
+6,11:54:24.193,air1F_close_short,LG,17.308s,1587,553,0.348,721.112,2069.416,0.348,false
+7,11:54:39.395,air1F_far_short,LG,13.319s,1333,553,0.415,721.112,1738.211,0.415,false
+8,11:55:05.886,air1_UFO,LG,25.297s,2398,553,0.231,721.112,3126.923,0.231,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+LG,11421,4425,5770.353516,14892.021484,
+
+Kills:,8
+Deaths:,0
+Fight Time:,119.418999
+Avg TTK:,125
+Damage Done:,5770.353516
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,869.190796
+Scenario:,Ground Plaza Easy
+Hash:,9e1dbc9b183966e69b73aca2836c8165
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

@@ -1,0 +1,105 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,11:10:42.830,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+2,11:10:43.765,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+3,11:10:44.348,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+4,11:10:45.432,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+5,11:10:46.219,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+6,11:10:46.662,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+7,11:10:47.463,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+8,11:10:48.464,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+9,11:10:50.348,Pigeon,pistol,0.731s,2,1,0.5,50,250,0.2,false
+10,11:10:51.208,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+11,11:10:51.962,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+12,11:10:52.912,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+13,11:10:53.906,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+14,11:10:54.316,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+15,11:10:55.133,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+16,11:10:55.794,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+17,11:10:57.301,Pigeon,pistol,0.8s,2,1,0.5,50,250,0.2,false
+18,11:10:58.241,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+19,11:10:59.701,Pigeon,pistol,0.419s,2,1,0.5,50,250,0.2,false
+20,11:11:01.485,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+21,11:11:02.653,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+22,11:11:03.837,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+23,11:11:04.184,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+24,11:11:04.907,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+25,11:11:05.591,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+26,11:11:06.163,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+27,11:11:06.811,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+28,11:11:07.465,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+29,11:11:08.215,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+30,11:11:08.715,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+31,11:11:09.682,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+32,11:11:10.575,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+33,11:11:11.306,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+34,11:11:12.764,Pigeon,pistol,0.47s,2,1,0.5,50,250,0.2,false
+35,11:11:13.924,Pigeon,pistol,0.607s,2,1,0.5,50,250,0.2,false
+36,11:11:15.352,Pigeon,pistol,0.887s,2,1,0.5,50,250,0.2,false
+37,11:11:16.238,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+38,11:11:16.722,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+39,11:11:17.496,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+40,11:11:18.203,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+41,11:11:19.014,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+42,11:11:19.514,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+43,11:11:20.257,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+44,11:11:21.204,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+45,11:11:21.884,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+46,11:11:22.615,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+47,11:11:24.192,Pigeon,pistol,0.737s,3,1,0.333,50,375,0.133,false
+48,11:11:24.689,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+49,11:11:26.286,Pigeon,pistol,0.64s,2,1,0.5,50,250,0.2,false
+50,11:11:26.819,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+51,11:11:27.336,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+52,11:11:28.430,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+53,11:11:29.748,Pigeon,pistol,0.691s,2,1,0.5,50,250,0.2,false
+54,11:11:30.229,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+55,11:11:31.122,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+56,11:11:32.362,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+57,11:11:33.613,Pigeon,pistol,0.704s,2,1,0.5,50,250,0.2,false
+58,11:11:34.573,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+59,11:11:35.134,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+60,11:11:35.653,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+61,11:11:37.457,Pigeon,pistol,0.857s,2,1,0.5,50,250,0.2,false
+62,11:11:38.284,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+63,11:11:39.735,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+64,11:11:42.438,Pigeon,pistol,1.666s,3,1,0.333,50,375,0.133,false
+65,11:11:43.412,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+66,11:11:44.019,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+67,11:11:45.239,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+68,11:11:46.126,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+69,11:11:47.170,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+70,11:11:48.918,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+71,11:11:49.888,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+72,11:11:50.752,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+73,11:11:51.609,Pigeon,pistol,0s,1,1,1,50,125,0.4,false
+74,11:11:52.290,Pigeon,pistol,0.001s,1,1,1,50,125,0.4,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+pistol,88,74,3700.0,11000.0,
+
+Kills:,74
+Deaths:,0
+Fight Time:,9.212
+Avg TTK:,0.954
+Damage Done:,3700.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,62.227272
+Scenario:,Bounce 180
+Hash:,28c00569c77cdbb9a321ffb8a8363220
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,5.0
+Vert Sens:,5.0
+FOV:,80.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

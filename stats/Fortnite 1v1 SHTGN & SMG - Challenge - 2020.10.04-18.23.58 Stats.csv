@@ -1,0 +1,41 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,18:23:01.401,Fortnite,Pump,1.197s,16,11,0.688,259.6,377.6,0.688,false
+2,18:23:07.088,Fortnite,Pump,3.037s,24,13,0.542,200.166,566.4,0.353,false
+3,18:23:13.833,Fortnite,Pump,4.191s,32,15,0.469,257.398,755.2,0.341,false
+4,18:23:22.336,Fortnite,Pump,5.474s,40,12,0.3,200.308,944,0.212,false
+5,18:23:33.372,Fortnite,Pump,7.219s,48,11,0.229,256.166,1132.799,0.226,false
+6,18:23:43.824,Fortnite,Pump,7.915s,48,13,0.271,247.355,1132.799,0.218,false
+7,18:23:49.827,Fortnite,Pump,3.445s,24,12,0.5,212.4,566.4,0.375,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Pump,264,98,1763.193604,6230.415527,
+Tac Shotgun,0,0,0.0,0.0,
+FN ARv1,0,0,0.0,0.0,
+Track Master 100,0,0,0.0,0.0,
+
+Kills:,7
+Deaths:,0
+Fight Time:,32.478001
+Avg TTK:,8.571
+Damage Done:,1763.193604
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,10174.686523
+Score:,1763.193604
+Scenario:,Fortnite 1v1 SHTGN & SMG
+Hash:,a11dc8cdbb3977bf96b6fbe9db8fd49a
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

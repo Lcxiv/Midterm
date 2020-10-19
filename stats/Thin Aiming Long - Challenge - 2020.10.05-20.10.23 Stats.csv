@@ -1,0 +1,39 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,20:09:27.694,Thin very long strafe,Track Master 100,3.6s,314,200,0.637,200,314,0.637,false
+2,20:09:35.354,Thin very long strafe,Track Master 100,4.917s,493,200,0.406,200,493,0.406,false
+3,20:09:43.797,Thin very long strafe,Track Master 100,6.516s,653,200,0.306,200,653,0.306,false
+4,20:09:52.435,Thin very long strafe,Track Master 100,6.277s,629,200,0.318,200,629,0.318,false
+5,20:10:00.156,Thin very long strafe,Track Master 100,5.268s,528,200,0.379,200,528,0.379,false
+6,20:10:09.777,Thin very long strafe,Track Master 100,9.401s,695,200,0.288,200,695,0.288,false
+7,20:10:16.548,Thin very long strafe,Track Master 100,4.216s,423,200,0.473,200,423,0.473,false
+8,20:10:23.139,Thin very long strafe,Track Master 100,4.378s,439,200,0.456,200,439,0.456,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Track Master 100,4177,1600,1600.0,4177.0,
+
+Kills:,8
+Deaths:,0
+Fight Time:,44.573002
+Avg TTK:,7.5
+Damage Done:,1600.0
+Damage Taken:,0.0
+Midairs:,0
+Midaired:,0
+Directs:,0
+Directed:,0
+Distance Traveled:,0.0
+Score:,1600.0
+Scenario:,Thin Aiming Long
+Hash:,3a5aabeed03bd10e4d437104ff1b425b
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00

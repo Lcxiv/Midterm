@@ -1,0 +1,90 @@
+Kill #,Timestamp,Bot,Weapon,TTK,Shots,Hits,Accuracy,Damage Done,Damage Possible,Efficiency,Cheated
+1,11:35:55.737,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.377s,219,218,0.995,200,200,1,false
+2,11:35:57.162,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.54s,307,220,0.717,200,280,0.714,false
+3,11:35:58.340,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.457s,263,217,0.825,200,240,0.833,false
+4,11:35:59.289,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.397s,230,220,0.957,200,210,0.952,false
+5,11:36:00.544,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.678s,384,358,0.932,327,350,0.934,false
+6,11:36:00.775,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.139s,87,88,1.011,80,80,1,false
+7,11:36:01.694,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.809s,417,218,0.523,201,380,0.529,false
+8,11:36:03.400,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.939s,439,438,0.998,399,400,0.998,false
+9,11:36:03.606,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0s,10,7,0.7,7,10,0.7,false
+10,11:36:04.814,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,1.044s,340,222,0.653,203,310,0.655,false
+11,11:36:05.682,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.379s,219,219,1,200,200,1,false
+12,11:36:06.678,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.397s,230,221,0.961,202,210,0.962,false
+13,11:36:08.275,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.619s,351,220,0.627,201,320,0.628,false
+14,11:36:09.052,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.519s,296,220,0.743,200,270,0.741,false
+15,11:36:10.598,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.88s,494,219,0.443,200,450,0.444,false
+16,11:36:11.583,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.698s,395,221,0.559,201,360,0.558,false
+17,11:36:12.709,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.58s,329,222,0.675,202,300,0.673,false
+18,11:36:13.498,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.5s,285,224,0.786,205,260,0.788,false
+19,11:36:14.472,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.657s,373,220,0.59,203,340,0.597,false
+20,11:36:15.389,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.399s,230,229,0.996,209,210,0.995,false
+21,11:36:16.322,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.697s,395,221,0.559,204,360,0.567,false
+22,11:36:16.824,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.379s,219,219,1,200,200,1,false
+23,11:36:17.589,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.518s,296,227,0.767,207,270,0.767,false
+24,11:36:18.593,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.398s,230,224,0.974,204,210,0.971,false
+25,11:36:19.642,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.799s,450,226,0.502,207,410,0.505,false
+26,11:36:20.714,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.557s,318,228,0.717,208,290,0.717,false
+27,11:36:21.453,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.518s,296,217,0.733,200,270,0.741,false
+28,11:36:23.421,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,1.652s,692,423,0.611,386,630,0.613,false
+29,11:36:24.217,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.457s,263,223,0.848,204,240,0.85,false
+30,11:36:25.103,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.418s,241,222,0.921,204,220,0.927,false
+31,11:36:26.162,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.838s,472,216,0.458,200,430,0.465,false
+32,11:36:27.189,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.856s,483,227,0.47,208,440,0.473,false
+33,11:36:28.066,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.196s,120,22,0.183,21,110,0.191,false
+34,11:36:28.734,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.417s,241,219,0.909,201,220,0.914,false
+35,11:36:29.573,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.418s,241,222,0.921,203,220,0.923,false
+36,11:36:30.599,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.758s,428,221,0.516,204,390,0.523,false
+37,11:36:31.806,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.538s,307,224,0.73,206,280,0.736,false
+38,11:36:32.574,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.499s,285,220,0.772,200,260,0.769,false
+39,11:36:33.535,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.517s,296,223,0.753,205,270,0.759,false
+40,11:36:34.461,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.66s,373,227,0.609,207,340,0.609,false
+41,11:36:35.154,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.417s,241,225,0.934,205,220,0.932,false
+42,11:36:36.756,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.599s,340,223,0.656,204,310,0.658,false
+43,11:36:37.901,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.599s,340,223,0.656,202,310,0.652,false
+44,11:36:39.050,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.597s,340,219,0.644,200,310,0.645,false
+45,11:36:39.715,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.498s,285,228,0.8,208,260,0.8,false
+46,11:36:40.725,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.618s,351,219,0.624,200,320,0.625,false
+47,11:36:41.411,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.377s,219,218,0.995,200,200,1,false
+48,11:36:43.018,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.82s,461,228,0.495,209,420,0.498,false
+49,11:36:44.276,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,1.101s,325,279,0.858,254,296,0.858,false
+50,11:36:45.384,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.479s,274,219,0.799,200,250,0.8,false
+51,11:36:46.342,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.577s,329,227,0.69,207,300,0.69,false
+52,11:36:47.651,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.377s,219,173,0.79,156,200,0.78,false
+53,11:36:48.475,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.559s,318,227,0.714,206,290,0.71,false
+54,11:36:49.189,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.497s,285,230,0.807,209,260,0.804,false
+55,11:36:50.332,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.576s,329,225,0.684,207,300,0.69,false
+56,11:36:51.148,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.517s,296,223,0.753,203,270,0.752,false
+57,11:36:52.029,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.56s,318,222,0.698,205,290,0.707,false
+58,11:36:53.454,Quaker Bot Long Strafes,Alcove_Tracking_Weapon,0.958s,538,225,0.418,209,490,0.427,false
+
+Weapon,Shots,Hits,Damage Done,Damage Possible,,Sens Scale,Horiz Sens,Vert Sens,FOV,Hide Gun,Crosshair,Crosshair Scale,Crosshair Color,ADS Sens,ADS Zoom Scale
+Alcove_Tracking_Weapon,18539,12942,11837.0,16906.0,
+Alcove Tracking Effect Helper,0,0,0.0,0.0,
+
+Kills:,58
+Deaths:,0
+Fight Time:,33.824001
+Avg TTK:,1.034
+Damage Done:,11837.0
+Damage Taken:,0.0
+Midairs:,243
+Midaired:,0
+Directs:,1105
+Directed:,0
+Distance Traveled:,0.0
+Score:,11837.0
+Scenario:,Target Switching 360
+Hash:,4330df31dac064ed7bd5b72602aabd69
+Game Version:,2.0.2.0
+
+Input Lag:,0
+Max FPS (config):,300.0
+Sens Scale:,Fortnite Percent
+Horiz Sens:,6.0
+Vert Sens:,6.0
+FOV:,103.0
+Hide Gun:,false
+Crosshair:,plus.png
+Crosshair Scale:,1.0
+Crosshair Color:,FFFF00
