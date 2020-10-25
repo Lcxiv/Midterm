@@ -3,10 +3,12 @@ install.packages(c("tidyverse", "fs","data.table","dplyr","readr", "purrr"))
 
 library(data.table)
 library(dplyr)
-library(purrr)
-library(readr)
+library(tidyverse)
+library(fs)
 
 setwd("C:/Users/Master/Desktop/510/Midterm/stats")
+data_dir <- "stats"
+fs::dir_ls(data_dir)
 #data <- read.csv(file = "X1wall_6targets_small_2020_07_08")
 #View(data)
 
