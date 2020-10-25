@@ -5,10 +5,12 @@ library(data.table)
 library(dplyr)
 library(tidyverse)
 library(fs)
+library(lubridate)
 
 setwd("C:/Users/Master/Desktop/510/Midterm/stats")
-data_dir <- "stats"
-fs::dir_ls(data_dir)
+
+
+
 #data <- read.csv(file = "X1wall_6targets_small_2020_07_08")
 #View(data)
 
