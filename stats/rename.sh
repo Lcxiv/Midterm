@@ -3,5 +3,5 @@
 #renaming all my files in a better format with rename(perl)
 
 
-rename -f 's/Challenge//g; s/Stats//g; s/\s+/_/g; s/[^-]-//; s/[^-]-//; s/-[^-]*\_//' *.csv
+rename -f -X 's/Challenge//g; s/Stats//g; s/\s+/_/g; s/[^-]-//; s/[^-]-//; s/-[^-]*\_//' *.csv
 
