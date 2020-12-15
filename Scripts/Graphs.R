@@ -1,4 +1,4 @@
-source("../Midterm/data_cleaning.R")
+source("../Midterm/Scripts/data_cleaning.R")
 
 
 #Plotting graph
@@ -12,4 +12,4 @@ final_graph <- ggarrange(one_wall_graph, bounce_graph,
           labels = c("A", "B"),
           ncol = 1, nrow = 2)
 final_graph
-#Issue with compiling, may need to run final_graph by itsel to get the graphs sometimes.
+#Issue with compiling, may need to run final_graph by itself to get the graphs sometimes.

@@ -1,17 +1,5 @@
-#Packages to install
-packages<-c("tidyverse", "fs","data.table","dplyr","readr", "purrr","sqldf","ggpubr")
-install.packages(setdiff(packages, rownames(installed.packages())))  
 
-library(data.table)
-library(dplyr)
-library(tidyverse)
-library(fs)
-library(lubridate)
-library(sqldf)
-library(magrittr)
-library(ggpubr)
-
-source("../Midterm/functions.R")
+source("../Midterm/Scripts/functions.R")
 
 #Finding Directory containing the data
 
@@ -21,18 +9,10 @@ data_dir <- "stats"   #setting up the directory containing the csv files
 
 one_wall_5 <- merge_scenario(one_wall_5,"1wall5targets*")
 bounce_180 <- merge_scenario(bounce_180,"Bounce_180_*")
-#one_wall_5 <- data_dir %>% 
-#  dir_ls(regexp = "1wall5targets*") %>% 
-#  map_dfr(read_csv, .id = "source")
 
-#Bounce_180 <- data_dir %>% 
-#  dir_ls(regexp = "Bounce_180_*") %>% 
-#  map_dfr(read_csv, .id = "source")
 
 #Renaming column for accessibility purposes
 
-#rename_col(one_wall_5,2,"Kills")
-#rename_col(Bounce_180,2,"Kills")
 
 names(one_wall_5)[2] <- "Kills"
 names(Bounce_180)[2] <- "Kills"
@@ -57,7 +37,6 @@ Bounce_reformatted %<>%
 
 Bounce_180$date <- Bounce_reformatted
 Bounce_180$date<- as.Date(Bounce_180$date)
-#s <- as.Date(Bounce_reformatted)
 
 print("Date reformatted correctly.")
 

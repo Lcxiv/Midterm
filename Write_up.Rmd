@@ -78,7 +78,12 @@ Both of these graphs did not show any kind of constant progression over time. A 
 Moreover, any hardware change could greatly influence the results such as a changing a mouse, monitor etc...
 Finally, it is indeed really hard to create some baseline to measure progression over time and keep each variable the same. The player may feel the need to change some of these to acquire more comfort or because he may think the change will show a greater progression over time. 
 
-\subsection*{Summary}
+\section*{Summary}
 
 This project was quite difficult for reasons that I did not expect. I have never been realy familiar with R and especially doing data transformation in R. I guess it was the perfect data set to explore because of the way it was constructed and what I had to do to make it fit what I expected it to be. Unfortunately, I could not get rid of the formatting errors in the tables that you specified. 
 Overall, adding all these little parts together was fun and I learnt a lot. Obviously, there is a lot of room for improvement especially since I have been stupid enough to not commit to git and made Rstudio crash on me erasing my progression (lesson learnt!).
+
+\subsection*{Future}
+
+I hope that I will find a better way to collect data either from this aim trainer or another to avoid loosing that much. This would greatly help to create  better functions and make it more accessible to others.
+Still thinking of adding new games.
